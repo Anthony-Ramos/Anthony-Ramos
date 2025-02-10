@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 Sobre mí:
-- 🎓 Estudiante de tercer año en **Ingeniería en Sistemas Informáticos** en la Universidad de El Salvador.
+- 🎓 Estudiante de Cuarto año en **Ingeniería en Sistemas Informáticos** en la Universidad de El Salvador.
 - 💻 Desarrollo proyectos personales utilizando **HTML, CSS, JavaScript**, además de **Java** y **SQL**.
 - 🌱 Actualmente aprendiendo **Spring Boot** y mejorando mis habilidades en **diseño web responsivo**.
 - 👯 Me interesa colaborar en proyectos de **código abierto** y participar en desafíos de programación.
